@@ -1,1 +1,2 @@
-# -Seed-Health-Detection-Using-Sensor-Integration
+# Seed Health Detection Using Sensor Integration
+Aim is to create a portable small sized seed health indicator that can tell the better seeds to be selected for sowing. Sensors like photodiode, NOIR camera, RGB camera, Microscope are to be integrated on a raspi 5 board powered by phone and get various features of seeds and then send data over a server to a mobile app that tells how healthy the seeds are.
